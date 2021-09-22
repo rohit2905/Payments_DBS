@@ -1,4 +1,4 @@
-# Payments 
+# Payments (_EzPayments_)
 ## Scroll down to view Screenshots!
 
 ## Project is integrated well with Angular as frontend and Spring as Backend
