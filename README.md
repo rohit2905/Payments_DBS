@@ -22,4 +22,4 @@
   5) The project runs on the server http://localhost:8282
 
 # Screenshots of application
-!["Screen 1"](/Screenshots/1.png | width=200 | height=200)
+!["Screen 1"](/Screenshots/1.png = 200x200)
