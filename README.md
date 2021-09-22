@@ -22,4 +22,4 @@
   5) The project runs on the server http://localhost:8282
 
 # Screenshots of application
-!["helo"](/Screenshots/1.jpg?raw=true)
+!["helo"](/Screenshots/1.png)
