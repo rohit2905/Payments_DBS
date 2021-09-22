@@ -2,7 +2,7 @@
 
 # Project is integreated well with Angular as frontend and Spring as Backend
 
-# ***Frontend files of project can be found in src/main/resources/Payments_Frontend*** 
+***Frontend files of project can be found in src/main/resources/Payments_Frontend*** 
 
 # Tech Stack
 * Frontend - Angular 12
