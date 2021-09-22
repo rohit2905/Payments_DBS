@@ -1,4 +1,5 @@
-# Payments
+# Payments 
+## Scroll down to view Screenshots!
 
 ## Project is integrated well with Angular as frontend and Spring as Backend
 
@@ -22,4 +23,7 @@
   5) The project runs on the server http://localhost:8282
 
 # Screenshots of application
-!["Screen 1"](/Screenshots/1.png = 200x200)
+!["Screen 1"](/Screenshots/1.png)
+!["Screen 2"](/Screenshots/2.png)
+!["Screen 3"](/Screenshots/3.png)
+!["Screen 4"](/Screenshots/4.png)
